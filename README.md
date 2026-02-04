@@ -36,5 +36,5 @@ Cloud & DevOps (Learning Stage):
 
  📫 How to reach me?
 - GitHub: https://github.com/ayaz10-prog  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- LinkedIn: https://linkedin.com/in/ayaz-a-63018536a  
 - Email: makwanaayaz10@email.com  
